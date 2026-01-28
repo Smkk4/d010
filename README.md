@@ -4,4 +4,5 @@
 It was done in an online course.
 
 
-![Uploading bugdroid.png…]()
+
+![Uploading dan-droids-pq.png…]()
