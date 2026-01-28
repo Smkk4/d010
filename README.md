@@ -4,4 +4,4 @@
 It was done in an online course.
 
 
-Credits for GustavoGuanabara
+Credits to GustavoGuanabara from Curso em Video
